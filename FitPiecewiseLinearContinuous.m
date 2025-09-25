@@ -1,4 +1,6 @@
 % RNA_Polymerase_II_transcription_WANG_Yukun_LIU_Shixin20240513.m
+% Copyright 2025 The Rockefeller University
+% Author: Joel E. Cohen cohen@rockefeller.edu 20250925
 % JEC  West Shokan, NY 20231123 24 1206 07 08 09 10 12 18 22 25
 % 20240131 0204 05 0319 23 24 0422 0512 13 0612 13 14 15
 
@@ -873,4 +875,5 @@ toc
 %     deltat{sheet} = time{sheet}(3,:) - time{sheet}(2,:);    % Initial time steps
 %     deltat{sheet}
 % end
+
 % return
